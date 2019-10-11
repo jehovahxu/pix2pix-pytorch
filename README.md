@@ -9,4 +9,4 @@ python train2.py --dataroot {dataset} --datalist {datalist}
 
 |   Dataset| fid  |PSNR|FSIM|
 |  :----: | :----: |:----:|:----:|
-|  CUFSF  | 28.15|30.30|0.728|
+|  CUHK  | 28.15|30.30|0.728|
