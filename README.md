@@ -7,6 +7,6 @@ run train
 python train2.py --dataroot {dataset} --datalist {datalist}
 ```
 
-|  CUFSF   | fid  |PSNR|FSIM|
+|   Dataset| fid  |PSNR|FSIM|
 |  :----: | :----: |:----:|:----:|
-|  | 28.15|30.30|0.728|
+|  CUFSF  | 28.15|30.30|0.728|
